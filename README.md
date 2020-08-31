@@ -1,6 +1,16 @@
-# test1
+# My Fitness Buddy
 
-My Fitness Buddy
+This is a mobile first app using HTML, CSS, Foundation CSS Framework, JavaScript, and jQuery. The app uses AJAX GET to call 3 APIs
+   1) spoonacular API
+   2) mapquest API (mapquest used for initial coordinate search)
+   3) TomTom API (TomTom used for Point of Interest search)
+ 
+ # Motivation
+ 
+ The motivation behind this app was to provide a user-friendly way to manage one's daily nutrional info. The best way is to have a hub where not only are homecooked meals and restataunt/fast food options are made available, but also nutrional info can be tracked.
+   
+   
+# How to Use and Screenshots   
 
 This app has three main pieces of user interaction/functionality:
 
